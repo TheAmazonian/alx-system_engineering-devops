@@ -1,6 +1,2 @@
 #!/bin/bash
-pwd
 su -l 0-iam_betty
-
-
-
